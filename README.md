@@ -24,3 +24,11 @@
 4. Run the script using Python:
    ```bash
    python SmallerDBScript.py
+
+## Customization
+- You can modify the script to change the database names, table structure, and the number of records to transfer.
+- Ensure that the SQL commands used in the script are compatible with your database schema.
+
+## Note
+- This script performs a simple data transfer. For more complex migrations, consider modifying the SQL queries and scripts as per your requirements.
+- Always backup your databases before running any migration scripts to prevent data loss.
