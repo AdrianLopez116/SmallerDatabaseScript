@@ -1,7 +1,7 @@
 # SmallerDBScript
 
 ## Overview
-`SmallerDBScript.py` is a Python script for migrating a subset of data from a large SQLite database to a smaller one. It's particularly useful for extracting and transferring specific records based on defined criteria. This script is designed for databases that use the SQLite engine.
+`SmallerDBScript.py` is a Python script for migrating a subset of data from a large SQLite database to a smaller one. It's particularly useful for extracting and transferring specific records based on defined criteria.
 
 ## Features
 - Connects to an existing large SQLite database.
